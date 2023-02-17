@@ -523,10 +523,19 @@ img {
     right: 10%;
   }
 }
-
-.btn112{
-  background-color: red;
+.download-btn{
+  background-color: DodgerBlue;
   color: white;
-  width: 200px;
-  border: none;
+  padding: 2px;
+  font-size: 25px;
+  text-decoration: none;
+  border-radius:5px;
+}
+
+.download-btn:hover {
+  background-color: RoyalBlue;
+}
+.a1{
+  text-decoration: none;
+  color: white;
 }
